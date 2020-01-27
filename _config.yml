@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Zhili Blog
+SEOTitle: 之立的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: jinhuanglanshan@gmail.com
+email: 20161607@cqu.edu.cn
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, jinhuanglanshan, 邱柏荧, iOS, Apple, iPhone"
+keyword: "Zhili Blog, 之立的博客, jinhuanglanshan"
 url: "http://jinhuanglanshan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jinhuanglanshan/jinhuanglanshan.github.io.git" # you code repository
@@ -16,14 +16,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 
 
-# SNS settings
 RSS: false
-# weibo_username:     jinhuanglanshan
-zhihu_username:     jinhuanglanshan
 github_username:    jinhuanglanshan
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   jinhuanglanshan
 
 
 
@@ -78,7 +72,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: jinhuanglanshan.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: jinhuanglanshan.xyz               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,16 +93,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CQU",
+        href: "http://cqu.edu.cn/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "NJU",
+        href: "https://www.nju.edu.cn/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Leetcode",
+        href: "https://leetcode-cn.com/"
     }
 ]
